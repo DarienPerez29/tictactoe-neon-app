@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base colors-->
+    <color name="dark_1">#131313</color>
+    <color name="dark_2">#272727</color>
+    <color name="gray_1">#7A7A7A</color>
+    <color name="main_color">#04CACA</color>
+    <color name="secondary_color">#597EDA</color>
+
+    <color name="white_glow">#7E7E7E</color>
+    <color name="x_glow">#9933BBF1</color>
+    <color name="o_glow">#99F13343</color>
+    <color name="winner_glow">#990ACF35</color>
+
+    <color name="x_player">#33BBF1</color>
+    <color name="o_player">#F13343</color>
+    <color name="winner_player">#0ACF35</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="disabled">#1AFFFFFF</color>
+
+</resources>
